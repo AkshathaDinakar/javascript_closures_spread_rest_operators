@@ -6,7 +6,7 @@ console.log(findingMax)
 
 // creating object
 var obj = {}
-Object.assign(obj,{1:"javd",2:"mohammed"})
+Object.assign(obj,{1:"javd",2:"abc"})
 console.log(obj)
 
 

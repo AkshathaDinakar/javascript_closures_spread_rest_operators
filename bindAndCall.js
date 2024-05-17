@@ -15,7 +15,7 @@ console.log(User)
 
 
 var NewUser = {
-    name : "Mohammed",
+    name : "abc",
     Age : 23,
     Place : "Mangalore"
 }
